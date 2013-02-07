@@ -102,4 +102,4 @@ class Ticker extends Colors {
  
 
 $a = new Ticker();
-$a;
+
