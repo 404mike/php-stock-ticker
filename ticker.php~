@@ -113,5 +113,5 @@ class Ticker extends Colors {
 	}
  
 
-new Ticker();
+$a = new Ticker();
 
